@@ -12074,7 +12074,7 @@ pre .code {
   width: 100%;
   height: 100%;
   background-image: -webkit-linear-gradient(bottom, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
-  background-image: linear-gradient(to top, #fff 0%, rgba(105, 90, 166, 0.35) 99%, rgba(105, 90, 166, 0.5) 100%);
+  background-image: linear-gradient(to top, #fff 0%, rgba(34, 153, 84, 0.35) 99%, rgba(34, 153, 84, 0.5) 100%);
 }
 
 .header .header-content {
@@ -12146,7 +12146,7 @@ pre .code {
           justify-content: center;
   text-align: center;
   padding: 1rem;
-  background: #a59cca;
+  background: #2ecc71;
 }
 
 @media (max-width: 991.98px) {
