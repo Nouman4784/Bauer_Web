@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.bauer_energei",
+      "sha256_cert_fingerprints":
+      ["40:76:C1:73:64:67:12:7F:9B:83:0D:11:3A:B9:19:B2:47:9B:DE:8F:04:86:F8:9D:12:23:C6:17:B5:03:A8:73"]
+    }
+  }]
