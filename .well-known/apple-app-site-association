@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "2TB5V397YV.com.bauer.bauerEnergei",
+        "paths": [ "/blog/*", "/" ]
+      }
+    ]
+  }
+}
