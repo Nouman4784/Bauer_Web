@@ -3,23 +3,12 @@
     "apps": [],
     "details": [
       {
-        "appIDs": [
-          "2TB5V397YV.com.bauer.bauerEnergei"
-        ],
+        "appID": "2TB5V397YV.com.bauer.bauerEnergei",
         "paths": [
-          "*", "/blog/*", "/"
-        ],
-        "components": [
-          {
-            "/": "/*"
-          }
+          "/blog/*",
+          "/"
         ]
       }
-    ]
-  },
-  "webcredentials": {
-    "apps": [
-      "2TB5V397YV.com.bauer.bauerEnergei"
     ]
   }
 }
