@@ -1,4 +1,6 @@
 {
+  "buildCommand": null,
+  "outputDirectory": ".",
   "rewrites": [
     { "source": "/((?!.well-known).*)", "destination": "/index.html" }
   ],
